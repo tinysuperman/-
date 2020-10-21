@@ -10,7 +10,7 @@
 
 下面是部分微博评论： 
 
-<img src="https://github.com/tinysuperman/-/blob/main/images/comment.png">
+<img width=“450” src="https://github.com/tinysuperman/-/blob/main/images/comment.png">
 
 接着还有：
 
