@@ -17,3 +17,15 @@
 
 <img src="https://github.com/tinysuperman/-/blob/main/images/comment2.jpeg">
 
+<header>  这个库用来干什么？</header>
+<ul>
+  <li>客观公正的记录整个事件中的过程，以及各家发出的声音。</li>
+  <li>监督学校的行为，透明公开事情进度。</li>
+</ul>
+
+<header>  我能做什么来帮助这位卑微的女博士？</header>
+<ul>
+  <li>给项目点star，增加关注度。</li>
+  <li>转发项目链接，让更多人知道。</li>
+  <li>有能力的同学可以提交PR参与项目建设。</li>
+</ul>
